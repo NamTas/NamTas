@@ -58,7 +58,7 @@ I am a **Computer Science and Engineering graduate** seeking an entry-level Soft
   <img src="https://img.shields.io/badge/PowerPoint-CBA6F7?style=for-the-badge&logo=microsoftpowerpoint&logoColor=black">
 </p>
 
-<
+
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamTas&theme=react-dark&hide_border=true&bg_color=1E1E2E" />
@@ -69,7 +69,7 @@ I am a **Computer Science and Engineering graduate** seeking an entry-level Soft
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=NamTas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTas&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
 </p>
->
+
 
 <br>
 
