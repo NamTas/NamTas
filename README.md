@@ -1,20 +1,22 @@
+<!-- ===================== ANIMATED HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=200&section=header&animation=fadeIn" />
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F5C2E7&center=true&vCenter=true&width=800&lines=Hi,+it's+Namtas!+Welcome+to+my+github..;Backend+%26+Database+Enthusiast;AI+%26+Machine+Learning+Explorer" alt="Typing SVG" />
 </div>
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none; vertical-align: middle;">
-      <h2 style="margin-top: 0;">👩‍💻 About Me</h2>
-      <p>I am a <b>Computer Science and Engineering graduate</b> seeking an entry-level Software Engineer role, with a strong focus on <b>backend development, database management</b>, and <b>Data Science, Machine Learning & AI</b>.</p>
-      <p>My goal is to build robust server-side architectures, optimize databases, and integrate intelligent models. I am constantly expanding my practical skills in API development, software testing, version control, and application deployment.</p>
-      <p>Adaptable and collaborative, I bring strong problem-solving abilities and a genuine willingness to learn from feedback. I am excited to contribute to real-world projects, embrace industry standards, and grow into a dependable software engineer!</p>
-    </td>
-    <td width="40%" style="border: none; text-align: center; vertical-align: middle;">
-      <img src="https://i.pinimg.com/originals/a0/0a/6f/a00a6f81ba5743bf1e02cd0814bd2bb9.gif" width="100%" style="border-radius: 12px;" alt="Working Woman Animation" />
-    </td>
-  </tr>
-</table>
+<br>
+
+## 👩‍💻 About Me
+
+I am a **Computer Science and Engineering graduate** seeking an entry-level Software Engineer role, with a strong focus on **backend development, database management**, and **Data Science, Machine Learning & AI**.
+
+* 🔭 **Current Focus:** Building robust server-side architectures, optimizing databases, and integrating intelligent models. I am constantly expanding my practical skills in API development, software testing, version control, and application deployment.
+* 💡 **Work Style:** Adaptable and collaborative. I bring strong problem-solving abilities and a genuine willingness to learn from feedback.
+* 🚀 **Goals:** I am excited to contribute to real-world projects, embrace industry standards, and grow into a dependable software engineer!
+
+<br>
 
 ### 🌸 Languages, Frameworks & Concepts
 <p>
@@ -54,12 +56,13 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namtas&theme=react-dark&hide_border=true&bg_color=1E1E2E" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamTas&theme=react-dark&hide_border=true&bg_color=1E1E2E" />
 </p>
 
 ### 📊 Stats Snapshot
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=namtas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NamTas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTas&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
 </p>
 
 ### 🔗 Connect & Collab
