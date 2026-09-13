@@ -8,18 +8,13 @@
 
 <br>
 
-<table width="100%" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="left" style="border: none; padding: 0; width: 50%;">
-      <h2 style="margin: 0; border: none;">👩‍💻 About Me</h2>
-    </td>
-    <td align="right" style="border: none; padding: 0; width: 50%;">
-      <img src="https://komarev.com/ghpvc/?username=NamTas&color=CBA6F7&style=flat-square&label=Profile+Views&color=F5C2E7" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
-
----
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2 style="margin: 0; display: inline;">👩‍💻 About Me</h2>
+  <p align="right" style="margin: 0; display: inline; float: right;">
+    <img src="https://komarev.com/ghpvc/?username=NamTas&color=CBA6F7&style=flat-square&label=Profile+Views&color=F5C2E7" alt="Profile Views" />
+  </p>
+</div>
+<br clear="all">
 
 I am a **Computer Science and Engineering graduate** seeking an entry-level Software Engineer role, with a strong focus on **backend development, database management**, and **Data Science, Machine Learning & AI**.
 
@@ -73,10 +68,9 @@ I am a **Computer Science and Engineering graduate** seeking an entry-level Soft
 
 ### 🌱 Currently Learning & Exploring
 <p>
-  <img src="https://img.shields.io/badge/Backend_Development-F5C2E7?style=for-the-badge&logo=nodedotjs&logoColor=black">
-  <img src="https://img.shields.io/badge/RESTful_APIs-CBA6F7?style=for-the-badge&logo=postman&logoColor=black">
-  <img src="https://img.shields.io/badge/Big_Data-74C7EC?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/System_Design-FAB387?style=for-the-badge&logo=gnometerminal&logoColor=black">
+  <img src="https://img.shields.io/badge/Advanced_System_Design-F5C2E7?style=for-the-badge&logo=gnometerminal&logoColor=black">
+  <img src="https://img.shields.io/badge/Cloud_Deployment-CBA6F7?style=for-the-badge&logo=amazonaws&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-74C7EC?style=for-the-badge&logo=docker&logoColor=black">
 </p>
 
 <br>
