@@ -8,19 +8,13 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h2 style="margin: 0; display: inline;">👩‍💻 About Me</h2>
-  <p align="right" style="margin: 0; display: inline; float: right;">
-    <img src="https://komarev.com/ghpvc/?username=NamTas&color=CBA6F7&style=flat-square&label=Profile+Views&color=F5C2E7" alt="Profile Views" />
-  </p>
-</div>
-<br clear="all">
+## 👩‍💻 About Me
 
-I am a **Computer Science and Engineering graduate** seeking an entry-level Software Engineer role, with a strong focus on **backend development, database management**, and **Data Science, Machine Learning & AI**.
+Fresh out of a Computer Science and Engineering degree, I spend my days somewhere between backend architecture, databases, and teaching machines to make sense of data.
 
-🔭 **Current Focus:** Building robust server-side architectures, optimizing databases, and integrating intelligent models. I am constantly expanding my practical skills in API development, software testing, version control, and application deployment.
-💡 **Work Style:** Adaptable and collaborative. I bring strong problem-solving abilities and a genuine willingness to learn from feedback.
-🚀 **Goals:** I am excited to contribute to real-world projects, embrace industry standards, and grow into a dependable software engineer!
+* 🔭 **Current Focus:** Designing solid server-side systems, fine-tuning databases, and weaving intelligent models into real applications, while sharpening my hands-on skills in API development, testing, version control, and deployment along the way.
+* 💡 **Work Style:** Adaptable, curious, and collaborative. I enjoy solving problems from every angle and genuinely value feedback as part of getting better.
+* 🚀 **Goals:** Ready to dive into real-world projects, pick up industry best practices as I go, and grow into a developer people can rely on.
 
 <br>
 
@@ -68,9 +62,10 @@ I am a **Computer Science and Engineering graduate** seeking an entry-level Soft
 
 ### 🌱 Currently Learning & Exploring
 <p>
-  <img src="https://img.shields.io/badge/Advanced_System_Design-F5C2E7?style=for-the-badge&logo=gnometerminal&logoColor=black">
-  <img src="https://img.shields.io/badge/Cloud_Deployment-CBA6F7?style=for-the-badge&logo=amazonaws&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-74C7EC?style=for-the-badge&logo=docker&logoColor=black">
+  <img src="https://img.shields.io/badge/Backend_Development-F5C2E7?style=for-the-badge&logo=nodedotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/RESTful_APIs-CBA6F7?style=for-the-badge&logo=postman&logoColor=black">
+  <img src="https://img.shields.io/badge/Big_Data-74C7EC?style=for-the-badge&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/System_Design-FAB387?style=for-the-badge&logo=gnometerminal&logoColor=black">
 </p>
 
 <br>
@@ -80,7 +75,6 @@ I am a **Computer Science and Engineering graduate** seeking an entry-level Soft
   <img src="https://github-profile-trophy.vercel.app/?username=NamTas&theme=onedark&no-bg=true&margin-w=4&margin-h=4" alt="NamTas Trophies" />
 </p>
 
-<br>
 
 ### 📈 Contribution Graph
 <p align="center">
@@ -92,6 +86,7 @@ I am a **Computer Science and Engineering graduate** seeking an entry-level Soft
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=NamTas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTas&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
 </p>
+
 
 <br>
 
