@@ -1,78 +1,74 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Namtas&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate;AI+%2F+Machine+Learning+Enthusiast;Software+Developer+%26+Researcher" />
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/namtas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:tas.nam.03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Namtas+👋;Backend+%26+Database+Enthusiast;AI+%26+Machine+Learning+Explorer" alt="Typing SVG" />
+</div>
 
-👋 About Me
-I'm a Computer Science graduate passionate about bridging technology and creativity, with a focus on AI, machine learning, and software development. I enjoy asking questions that don't have simple answers — that curiosity drives both my research and my projects.
+<br>
 
-🔭 Currently working on: [project or role]
-🌱 Currently learning: [technology / concept]
-👯 Looking to collaborate on: [type of project]
-💬 Ask me about: [your strengths — e.g. RL, CV, web dev]
-⚡ Fun fact: [something personal]
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="60%" style="border: none; vertical-align: top;">
+      <h3>Meet me:</h3>
+      <p>I am a Computer Science and Engineering graduate seeking an entry-level Software Engineer role, with a primary interest in backend development and database management, as well as Data Science, Machine Learning, and AI.</p>
+      <p>I am eager to develop practical skills in server-side development, database design and optimization, API development and integration, software testing, version control, and application deployment.</p>
+      <p>Adaptable and collaborative, I bring strong problem-solving and communication abilities along with a genuine willingness to learn from feedback. I am looking for an opportunity to contribute to real-world development tasks, understand industry standards, and grow into a dependable backend software engineer.</p>
+    </td>
+    <td width="40%" style="border: none; text-align: center; vertical-align: middle;">
+      <!-- REPLACE THE LINK BELOW WITH YOUR PREFERRED WORKING WOMAN IMAGE / GIF -->
+      <img src="https://i.pinimg.com/originals/a0/0a/6f/a00a6f81ba5743bf1e02cd0814bd2bb9.gif" width="100%" style="border-radius: 10px;" alt="Working Woman Animation" />
+    </td>
+  </tr>
+</table>
 
-🛠️ Skills
-Languages
+<br>
 
+### 🌸 Languages, Frameworks & Concepts
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-F5C2E7?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-CBA6F7?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/C-74C7EC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-FAB387?style=for-the-badge&logo=c%2B%2B&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-94E2D5?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-F9E2AF?style=for-the-badge&logo=php&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-B4BEFE?style=for-the-badge&logo=mysql&logoColor=black">
+  <img src="https://img.shields.io/badge/MATLAB-F5C2E7?style=for-the-badge&logo=mathworks&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-CBA6F7?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-74C7EC?style=for-the-badge&logo=css3&logoColor=black">
+  <img src="https://img.shields.io/badge/React-FAB387?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-94E2D5?style=for-the-badge&logo=next.js&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-F9E2AF?style=for-the-badge&logo=flutter&logoColor=black">
+  <img src="https://img.shields.io/badge/Pandas-B4BEFE?style=for-the-badge&logo=pandas&logoColor=black">
+  <img src="https://img.shields.io/badge/Computer_Vision-F5C2E7?style=for-the-badge&logo=opencv&logoColor=black">
+  <img src="https://img.shields.io/badge/Explainable_AI-CBA6F7?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/CNN-74C7EC?style=for-the-badge&logo=keras&logoColor=black">
+  <img src="https://img.shields.io/badge/Gradient_Boosting-FAB387?style=for-the-badge&logo=scikit-learn&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft_Office-94E2D5?style=for-the-badge&logo=microsoftoffice&logoColor=black">
+  <img src="https://img.shields.io/badge/XAMPP-F9E2AF?style=for-the-badge&logo=xampp&logoColor=black">
+  <img src="https://img.shields.io/badge/Documentations-B4BEFE?style=for-the-badge&logo=googledocs&logoColor=black">
 </p>
 
-AI / ML
-
+### 🌷 Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-F5C2E7?style=for-the-badge&logo=pycharm&logoColor=black">
+  <img src="https://img.shields.io/badge/VS_Code-CBA6F7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-74C7EC?style=for-the-badge&logo=jupyter&logoColor=black">
+  <img src="https://img.shields.io/badge/Google_Colab-FAB387?style=for-the-badge&logo=googlecolab&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-94E2D5?style=for-the-badge&logo=git&logoColor=black">
+  <img src="https://img.shields.io/badge/GitHub-F9E2AF?style=for-the-badge&logo=github&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-B4BEFE?style=for-the-badge&logo=mysql&logoColor=black">
 </p>
 
-Tools & Platforms
+<br>
 
+### 📊 GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=namtas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtas&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+</p>
+
+<br>
+
+### 📫 Connect with me
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-</p>
-
-🚀 Projects
-* **Project Name** - Short one- or two-line description of what it does and the impact/result. (Python, PyTorch, Flask)
-* **Project Name** - Short one- or two-line description of what it does and the impact/result. (React, Node.js, MongoDB)
-* **Project Name** - Short one- or two-line description of what it does and the impact/result. (Java, Android Studio)
-
-🔬 Research
-* [Paper/Project Title] — one-line summary of the research focus and outcome. (Conference/Journal, Year)
-* [Paper/Project Title] — one-line summary of the research focus and outcome. (Status: In progress / Under review)
-
-📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=namtas&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtas&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namtas&theme=tokyonight" />
-</p>
-
-📫 Contact
-
-<p align="center">
-  <a href="mailto:tas.nam.03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/namtas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+  <a href="https://www.linkedin.com/in/namtas"><img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tas.nam.03@gmail.com"><img src="https://img.shields.io/badge/Email-F5C2E7?style=for-the-badge&logo=gmail&logoColor=black"></a>
 </p>
