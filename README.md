@@ -1,25 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Namtas+👋;Backend+%26+Database+Enthusiast;AI+%26+Machine+Learning+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F5C2E7&center=true&vCenter=true&width=800&lines=Hi,+it's+Namtas!+Welcome+to+my+github..;Backend+%26+Database+Enthusiast;AI+%26+Machine+Learning+Explorer" alt="Typing SVG" />
 </div>
 
-<br>
-
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center" style="border: none;">
   <tr style="border: none;">
-    <td width="60%" style="border: none; vertical-align: top;">
-      <h3>Meet me:</h3>
-      <p>I am a Computer Science and Engineering graduate seeking an entry-level Software Engineer role, with a primary interest in backend development and database management, as well as Data Science, Machine Learning, and AI.</p>
-      <p>I am eager to develop practical skills in server-side development, database design and optimization, API development and integration, software testing, version control, and application deployment.</p>
-      <p>Adaptable and collaborative, I bring strong problem-solving and communication abilities along with a genuine willingness to learn from feedback. I am looking for an opportunity to contribute to real-world development tasks, understand industry standards, and grow into a dependable backend software engineer.</p>
+    <td width="60%" style="border: none; vertical-align: middle;">
+      <h2 style="margin-top: 0;">👩‍💻 About Me</h2>
+      <p>I am a <b>Computer Science and Engineering graduate</b> seeking an entry-level Software Engineer role, with a strong focus on <b>backend development, database management</b>, and <b>Data Science, Machine Learning & AI</b>.</p>
+      <p>My goal is to build robust server-side architectures, optimize databases, and integrate intelligent models. I am constantly expanding my practical skills in API development, software testing, version control, and application deployment.</p>
+      <p>Adaptable and collaborative, I bring strong problem-solving abilities and a genuine willingness to learn from feedback. I am excited to contribute to real-world projects, embrace industry standards, and grow into a dependable software engineer!</p>
     </td>
     <td width="40%" style="border: none; text-align: center; vertical-align: middle;">
-      <!-- REPLACE THE LINK BELOW WITH YOUR PREFERRED WORKING WOMAN IMAGE / GIF -->
-      <img src="https://i.pinimg.com/originals/a0/0a/6f/a00a6f81ba5743bf1e02cd0814bd2bb9.gif" width="100%" style="border-radius: 10px;" alt="Working Woman Animation" />
+      <img src="https://i.pinimg.com/originals/a0/0a/6f/a00a6f81ba5743bf1e02cd0814bd2bb9.gif" width="100%" style="border-radius: 12px;" alt="Working Woman Animation" />
     </td>
   </tr>
 </table>
-
-<br>
 
 ### 🌸 Languages, Frameworks & Concepts
 <p>
@@ -57,17 +52,17 @@
   <img src="https://img.shields.io/badge/MySQL-B4BEFE?style=for-the-badge&logo=mysql&logoColor=black">
 </p>
 
-<br>
-
-### 📊 GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=namtas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namtas&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namtas&theme=react-dark&hide_border=true&bg_color=1E1E2E" />
 </p>
 
-<br>
+### 📊 Stats Snapshot
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=namtas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+</p>
 
-### 📫 Connect with me
+### 🔗 Connect & Collab
 <p>
   <a href="https://www.linkedin.com/in/namtas"><img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:tas.nam.03@gmail.com"><img src="https://img.shields.io/badge/Email-F5C2E7?style=for-the-badge&logo=gmail&logoColor=black"></a>
