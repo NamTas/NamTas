@@ -8,12 +8,12 @@
 
 <br>
 
-<table width="100%" style="border: none;">
+<table width="100%" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td align="left" style="border: none; width: 50%;">
-      <h2 style="margin: 0;">👩‍💻 About Me</h2>
+    <td align="left" style="border: none; padding: 0; width: 50%;">
+      <h2 style="margin: 0; border: none;">👩‍💻 About Me</h2>
     </td>
-    <td align="right" style="border: none; width: 50%;">
+    <td align="right" style="border: none; padding: 0; width: 50%;">
       <img src="https://komarev.com/ghpvc/?username=NamTas&color=CBA6F7&style=flat-square&label=Profile+Views&color=F5C2E7" alt="Profile Views" />
     </td>
   </tr>
