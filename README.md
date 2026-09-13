@@ -8,11 +8,20 @@
 
 <br>
 
-## 👩‍💻 About Me
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td align="left" style="border: none; vertical-align: middle;">
+      <h2 style="margin: 0;">👩‍💻 About Me</h2>
+    </td>
+    <td align="right" style="border: none; vertical-align: middle;">
+      <img src="https://komarev.com/ghpvc/?username=NamTas&color=CBA6F7&style=flat-square&label=Profile+Views&color=F5C2E7" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
 
 I am a **Computer Science and Engineering graduate** seeking an entry-level Software Engineer role, with a strong focus on **backend development, database management**, and **Data Science, Machine Learning & AI**.
 
-* 🔭 **Current Focus:** Building robust server-side architectures, optimizing databases, and integrating intelligent models. I am constantly expanding my practical skills in API development, software testing, version control, and application deployment.
+* 🔭 **Current Focus:** Building robust server-side architectures, optimizing databases, and integrating intelligent models. I am constantly expanding my practical skills in API development, version control, and application deployment.
 * 💡 **Work Style:** Adaptable and collaborative. I bring strong problem-solving abilities and a genuine willingness to learn from feedback.
 * 🚀 **Goals:** I am excited to contribute to real-world projects, embrace industry standards, and grow into a dependable software engineer!
 
@@ -58,20 +67,18 @@ I am a **Computer Science and Engineering graduate** seeking an entry-level Soft
   <img src="https://img.shields.io/badge/PowerPoint-CBA6F7?style=for-the-badge&logo=microsoftpowerpoint&logoColor=black">
 </p>
 
-<!-- 
+<br>
+
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamTas&theme=react-dark&hide_border=true&bg_color=1E1E2E" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NamTas&theme=react-dark&hide_border=true&bg_color=1E1E2E" />
 </p>
 
 ### 📊 Stats Snapshot
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NamTas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTas&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NamTas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTas&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" />
 </p>
--->
-
-<br>
 
 ### 🔗 Connect & Collab
 <p>
