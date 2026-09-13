@@ -18,9 +18,9 @@
 
 I am a **Computer Science and Engineering graduate** seeking an entry-level Software Engineer role, with a strong focus on **backend development, database management**, and **Data Science, Machine Learning & AI**.
 
-* 🔭 **Current Focus:** Building robust server-side architectures, optimizing databases, and integrating intelligent models. I am constantly expanding my practical skills in API development, software testing, version control, and application deployment.
-* 💡 **Work Style:** Adaptable and collaborative. I bring strong problem-solving abilities and a genuine willingness to learn from feedback.
-* 🚀 **Goals:** I am excited to contribute to real-world projects, embrace industry standards, and grow into a dependable software engineer!
+🔭 **Current Focus:** Building robust server-side architectures, optimizing databases, and integrating intelligent models. I am constantly expanding my practical skills in API development, software testing, version control, and application deployment.
+💡 **Work Style:** Adaptable and collaborative. I bring strong problem-solving abilities and a genuine willingness to learn from feedback.
+🚀 **Goals:** I am excited to contribute to real-world projects, embrace industry standards, and grow into a dependable software engineer!
 
 <br>
 
