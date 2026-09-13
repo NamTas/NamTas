@@ -67,10 +67,6 @@ Tools & Platforms
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namtas&theme=tokyonight" />
 </p>
 
-📜 Certifications
-* [Certification Name] — Issuing Organization, Year
-* [Certification Name] — Issuing Organization, Year
-
 📫 Contact
 
 <p align="center">
