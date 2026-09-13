@@ -8,15 +8,17 @@
 
 <br>
 
-| | |
-| :--- | ---: |
-| <h2 style="margin: 0; border: none;">👩‍💻 About Me</h2> | <img src="https://komarev.com/ghpvc/?username=NamTas&color=CBA6F7&style=flat-square&label=Profile+Views&color=F5C2E7" alt="Profile Views" /> |
-
----
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2 style="margin: 0; display: inline;">👩‍💻 About Me</h2>
+  <p align="right" style="margin: 0; display: inline; float: right;">
+    <img src="https://komarev.com/ghpvc/?username=NamTas&color=CBA6F7&style=flat-square&label=Profile+Views&color=F5C2E7" alt="Profile Views" />
+  </p>
+</div>
+<br clear="all">
 
 I am a **Computer Science and Engineering graduate** seeking an entry-level Software Engineer role, with a strong focus on **backend development, database management**, and **Data Science, Machine Learning & AI**.
 
-* 🔭 **Current Focus:** Building robust server-side architectures, optimizing databases, and integrating intelligent models. I am constantly expanding my practical skills in API development, version control, and application deployment.
+* 🔭 **Current Focus:** Building robust server-side architectures, optimizing databases, and integrating intelligent models. I am constantly expanding my practical skills in API development, software testing, version control, and application deployment.
 * 💡 **Work Style:** Adaptable and collaborative. I bring strong problem-solving abilities and a genuine willingness to learn from feedback.
 * 🚀 **Goals:** I am excited to contribute to real-world projects, embrace industry standards, and grow into a dependable software engineer!
 
@@ -66,10 +68,10 @@ I am a **Computer Science and Engineering graduate** seeking an entry-level Soft
 
 ### 🌱 Currently Learning & Exploring
 <p>
-  <img src="https://img.shields.io/badge/Backend_Development-F5C2E7?style=for-the-badge&logo=nodedotjs&logoColor=black">
-  <img src="https://img.shields.io/badge/RESTful_APIs-CBA6F7?style=for-the-badge&logo=postman&logoColor=black">
-  <img src="https://img.shields.io/badge/Big_Data-74C7EC?style=for-the-badge&logo=apachehadoop&logoColor=black">
-  <img src="https://img.shields.io/badge/System_Design-FAB387?style=for-the-badge&logo=gnometerminal&logoColor=black">
+  <img src="https://img.shields.io/badge/Backend_Development-F5C2E7?style=for-the-badge&logo=nodedotjs&logoColor=black">
+  <img src="https://img.shields.io/badge/RESTful_APIs-CBA6F7?style=for-the-badge&logo=postman&logoColor=black">
+  <img src="https://img.shields.io/badge/Big_Data-74C7EC?style=for-the-badge&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/System_Design-FAB387?style=for-the-badge&logo=gnometerminal&logoColor=black">
 </p>
 
 <br>
