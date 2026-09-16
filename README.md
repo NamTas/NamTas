@@ -21,6 +21,7 @@ Fresh out of a Computer Science and Engineering degree, I spend my days somewher
 ### 🌸 Languages, Frameworks & Concepts
 <p>
   <img src="https://img.shields.io/badge/Python-F5C2E7?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/ETL_Pipelines-FAB387?style=for-the-badge&logo=apachespark&logoColor=black">
   <img src="https://img.shields.io/badge/Java-CBA6F7?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-74C7EC?style=for-the-badge&logo=c&logoColor=black">
   <img src="https://img.shields.io/badge/C++-FAB387?style=for-the-badge&logo=c%2B%2B&logoColor=black">
@@ -46,6 +47,7 @@ Fresh out of a Computer Science and Engineering degree, I spend my days somewher
 
 ### 🌷 Tools & Platforms
 <p>
+  <img src="https://img.shields.io/badge/Power_BI-FAB387?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/PyCharm-F5C2E7?style=for-the-badge&logo=pycharm&logoColor=black">
   <img src="https://img.shields.io/badge/VS_Code-CBA6F7?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-74C7EC?style=for-the-badge&logo=jupyter&logoColor=black">
@@ -55,16 +57,17 @@ Fresh out of a Computer Science and Engineering degree, I spend my days somewher
   <img src="https://img.shields.io/badge/GitHub-F9E2AF?style=for-the-badge&logo=github&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-B4BEFE?style=for-the-badge&logo=mysql&logoColor=black">
   <img src="https://img.shields.io/badge/Microsoft_Excel-F5C2E7?style=for-the-badge&logo=microsoftexcel&logoColor=black">
-  <img src="https://img.shields.io/badge/PowerPoint-CBA6F7?style=for-the-badge&logo=microsoftpowerpoint&logoColor=black">
+  <img src="https://img.shields.io/badge/PowerPoint-CBA6F7?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
 </p>
 
 <br>
 
 ### 🌱 Currently Learning & Exploring
 <p>
+  <img src="https://img.shields.io/badge/Business_Analytics-F9E2AF?style=for-the-badge&logo=googleanalytics&logoColor=black">
   <img src="https://img.shields.io/badge/Backend_Development-F5C2E7?style=for-the-badge&logo=nodedotjs&logoColor=black">
   <img src="https://img.shields.io/badge/RESTful_APIs-CBA6F7?style=for-the-badge&logo=postman&logoColor=black">
-  <img src="https://img.shields.io/badge/Big_Data-74C7EC?style=for-the-badge&logo=apachehadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/Big_Data_%26_ETL-74C7EC?style=for-the-badge&logo=apachehadoop&logoColor=black">
   <img src="https://img.shields.io/badge/System_Design-FAB387?style=for-the-badge&logo=gnometerminal&logoColor=black">
 </p>
 
