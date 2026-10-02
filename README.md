@@ -21,7 +21,7 @@
 I'm a Computer Science and Engineering graduate who enjoys working with data and building systems that learn from it. I like the whole journey from raw data to a working result: collecting and cleaning it, storing it well, analysing it, modelling it, and putting it into something people can use.
 
 * 🔭 **Currently Focused On:** Data pipelines and databases, machine learning, and backend development, with hands-on practice in APIs, testing, version control and deployment.
-* 🎯 **Open To:** Entry-level and internship roles across **Data Science, Data Engineering, Machine Learning / AI Engineering, Data Analytics and Backend Development**.
+* 🎯 **Open To:** Entry-level and internship roles across **Data Science, Machine Learning / AI Engineering, Data Analytics and Backend Development**.
 * 🌱 **Learning Style:** I learn by building. I pick a real problem, work through it end to end, and write down what I learned.
 * 💡 **Work Style:** Curious, adaptable and collaborative. I solve problems from every angle and treat feedback as part of getting better.
 
@@ -42,7 +42,6 @@ I'm a Computer Science and Engineering graduate who enjoys working with data and
   <img src="https://img.shields.io/badge/Computer_Vision-F5C2E7?style=for-the-badge&logo=opencv&logoColor=black">
   <img src="https://img.shields.io/badge/Explainable_AI-CBA6F7?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/MLflow-94E2D5?style=for-the-badge&logo=mlflow&logoColor=black">
-  <img src="https://img.shields.io/badge/Jupyter-74C7EC?style=for-the-badge&logo=jupyter&logoColor=black">
   <img src="https://img.shields.io/badge/Google_Colab-FAB387?style=for-the-badge&logo=googlecolab&logoColor=black">
   <img src="https://img.shields.io/badge/MATLAB-F5C2E7?style=for-the-badge&logo=mathworks&logoColor=black">
 </p>
