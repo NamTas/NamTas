@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Hi! I am Namtas. Welcome to my GitHub.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1E1E2E"/><stop offset="1" stop-color="#313244"/></linearGradient>
+<linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#F5C2E7"/><stop offset="0.5" stop-color="#CBA6F7"/><stop offset="1" stop-color="#89B4FA"/></linearGradient>
+<clipPath id="r"><rect width="1200" height="360" rx="24"/></clipPath>
+<g id="paw"><ellipse cx="0" cy="6" rx="9" ry="7.5"/><ellipse cx="-11" cy="-5" rx="3.6" ry="5" transform="rotate(-20 -11 -5)"/><ellipse cx="-4" cy="-12" rx="3.6" ry="5.4" transform="rotate(-6 -4 -12)"/><ellipse cx="4.5" cy="-12" rx="3.6" ry="5.4" transform="rotate(6 4.5 -12)"/><ellipse cx="11.5" cy="-5" rx="3.6" ry="5" transform="rotate(20 11.5 -5)"/></g>
+</defs>
+<g clip-path="url(#r)"><rect width="1200" height="360" fill="url(#bg)"/>
+<circle cx="1180" cy="170" r="330" fill="#CBA6F7" fill-opacity="0.10"/>
+<circle cx="1230" cy="170" r="250" fill="#89B4FA" fill-opacity="0.08"/>
+<g transform="translate(130 48)"><animateTransform attributeName="transform" type="translate" values="130 48;130 40;130 48" calcMode="discrete" keyTimes="0;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+<ellipse cx="88" cy="270" rx="66" ry="7" fill="#000" opacity="0.35"/>
+<rect x="55" y="0" width="66" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="33" y="11" width="110" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="22" width="33" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="55" y="22" width="11" height="11" fill="#9A6C94" shape-rendering="crispEdges"/>
+<rect x="66" y="22" width="55" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="121" y="22" width="22" height="11" fill="#FFD166" shape-rendering="crispEdges"/>
+<rect x="143" y="22" width="11" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="33" width="99" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="121" y="33" width="22" height="11" fill="#FFD166" shape-rendering="crispEdges"/>
+<rect x="143" y="33" width="11" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="44" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="44" y="44" width="88" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="132" y="44" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="55" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="44" y="55" width="88" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="132" y="55" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="66" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="44" y="66" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="55" y="66" width="11" height="11" fill="#2A1C40" shape-rendering="crispEdges"/>
+<rect x="66" y="66" width="44" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="110" y="66" width="11" height="11" fill="#2A1C40" shape-rendering="crispEdges"/>
+<rect x="121" y="66" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="132" y="66" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="77" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="44" y="77" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="55" y="77" width="11" height="11" fill="#2A1C40" shape-rendering="crispEdges"/>
+<rect x="66" y="77" width="44" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="110" y="77" width="11" height="11" fill="#2A1C40" shape-rendering="crispEdges"/>
+<rect x="121" y="77" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="132" y="77" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="88" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="44" y="88" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="55" y="88" width="11" height="11" fill="#F58FB4" shape-rendering="crispEdges"/>
+<rect x="66" y="88" width="44" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="110" y="88" width="11" height="11" fill="#F58FB4" shape-rendering="crispEdges"/>
+<rect x="121" y="88" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="132" y="88" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="99" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="44" y="99" width="33" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="77" y="99" width="22" height="11" fill="#C0456E" shape-rendering="crispEdges"/>
+<rect x="99" y="99" width="33" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="132" y="99" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="110" width="33" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="55" y="110" width="66" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="121" y="110" width="33" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="11" y="121" width="44" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="66" y="121" width="44" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="121" y="121" width="44" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="11" y="132" width="33" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="44" y="132" width="88" height="11" fill="#F38BA8" shape-rendering="crispEdges"/>
+<rect x="132" y="132" width="33" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="11" y="143" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="33" y="143" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="44" y="143" width="88" height="11" fill="#F38BA8" shape-rendering="crispEdges"/>
+<rect x="132" y="143" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="143" y="143" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="11" y="154" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="33" y="154" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="44" y="154" width="22" height="11" fill="#F38BA8" shape-rendering="crispEdges"/>
+<rect x="66" y="154" width="44" height="11" fill="#E56A9F" shape-rendering="crispEdges"/>
+<rect x="110" y="154" width="22" height="11" fill="#F38BA8" shape-rendering="crispEdges"/>
+<rect x="132" y="154" width="11" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="143" y="154" width="22" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="22" y="165" width="22" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="44" y="165" width="88" height="11" fill="#F38BA8" shape-rendering="crispEdges"/>
+<rect x="132" y="165" width="22" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="44" y="176" width="88" height="11" fill="#CBA6F7" shape-rendering="crispEdges"/>
+<rect x="33" y="187" width="33" height="11" fill="#CBA6F7" shape-rendering="crispEdges"/>
+<rect x="66" y="187" width="11" height="11" fill="#A47FD6" shape-rendering="crispEdges"/>
+<rect x="77" y="187" width="66" height="11" fill="#CBA6F7" shape-rendering="crispEdges"/>
+<rect x="22" y="198" width="132" height="11" fill="#CBA6F7" shape-rendering="crispEdges"/>
+<rect x="22" y="209" width="22" height="11" fill="#CBA6F7" shape-rendering="crispEdges"/>
+<rect x="44" y="209" width="11" height="11" fill="#A47FD6" shape-rendering="crispEdges"/>
+<rect x="55" y="209" width="66" height="11" fill="#CBA6F7" shape-rendering="crispEdges"/>
+<rect x="121" y="209" width="11" height="11" fill="#A47FD6" shape-rendering="crispEdges"/>
+<rect x="132" y="209" width="22" height="11" fill="#CBA6F7" shape-rendering="crispEdges"/>
+<rect x="44" y="220" width="22" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="110" y="220" width="22" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="44" y="231" width="22" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="110" y="231" width="22" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="44" y="242" width="22" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="110" y="242" width="22" height="11" fill="#F6CFB0" shape-rendering="crispEdges"/>
+<rect x="33" y="253" width="33" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="110" y="253" width="33" height="11" fill="#7A4E78" shape-rendering="crispEdges"/>
+<rect x="33" y="66" width="11" height="22" fill="#F6CFB0" opacity="0" shape-rendering="crispEdges"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9;0.93;0.97;1" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="110" y="66" width="11" height="22" fill="#F6CFB0" opacity="0" shape-rendering="crispEdges"><animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9;0.93;0.97;1" dur="4s" repeatCount="indefinite"/></rect>
+</g>
+<text x="400" y="170" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="96" font-weight="800" font-style="italic" fill="url(#tx)">Hi! I’m Namtas.</text>
+<text x="404" y="222" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="26" font-style="italic" fill="#A6ADC8">Welcome to my GitHub 🐾</text>
+<text x="404" y="258" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="26" font-style="italic" fill="#A6ADC8">Data Engineering · Data Analytics · Intelligent Systems</text>
+<text x="1150" y="326" text-anchor="end" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" font-style="italic" fill="#A6ADC8">github.com/NamTas</text>
+<g transform="translate(410 320) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.000;0.025;0.425;0.500;1" dur="8s" repeatCount="indefinite"/></g>
+<g transform="translate(462 304) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.044;0.069;0.469;0.544;1" dur="8s" repeatCount="indefinite"/></g>
+<g transform="translate(514 320) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.087;0.112;0.512;0.588;1" dur="8s" repeatCount="indefinite"/></g>
+<g transform="translate(566 304) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.131;0.156;0.556;0.631;1" dur="8s" repeatCount="indefinite"/></g>
+<g transform="translate(618 320) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.175;0.200;0.600;0.675;1" dur="8s" repeatCount="indefinite"/></g>
+<g transform="translate(670 304) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.219;0.244;0.644;0.719;1" dur="8s" repeatCount="indefinite"/></g>
+<g transform="translate(722 320) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.262;0.287;0.688;0.762;1" dur="8s" repeatCount="indefinite"/></g>
+<g transform="translate(774 304) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.306;0.331;0.731;0.806;1" dur="8s" repeatCount="indefinite"/></g>
+<g transform="translate(826 320) rotate(90) scale(0.75)" fill="#F38BA8" opacity="0"><use href="#paw"/><animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.350;0.375;0.775;0.850;1" dur="8s" repeatCount="indefinite"/></g>
+</g></svg>
