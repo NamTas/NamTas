@@ -95,9 +95,5 @@ I'm a Computer Science & Engineering graduate (AUST, Dhaka) working across **Dat
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NamTas&label=Profile+views&color=cba6f7&style=flat-square" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28,32&height=100&section=footer" width="100%" />
 </p>
