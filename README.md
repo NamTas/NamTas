@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Namira Tasnim" />
-</p>
-
 <div align="center">
-  <img src="./assets/hello.svg" alt="Hi! I'm Namtas 🐾" />
+  <img src="./assets/intro.svg" width="100%" alt="Hi! I'm Namtas" />
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5C2E7&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C+Data+Analytics+%7C+Intelligent+Systems;Data+Scientist+%7C+AI+%26+Automation+Engineer;CSE+Graduate+%7C+Lifelong+Learner;Building+Scalable+Data+Pipelines+%26+AI+Systems" alt="Typing SVG" />
 </div>
@@ -67,9 +63,9 @@ I'm a Computer Science & Engineering graduate (AUST, Dhaka) working across **Dat
 ## 📈 GitHub Analytics & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NamTas&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" alt="GitHub stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=NamTas&theme=catppuccin-mocha&hide_border=true" alt="GitHub streak" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTas&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1E1E2E" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NamTas&show_icons=true&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4&icon_color=F5C2E7" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=NamTas&hide_border=true&background=1E1E2E&ring=F5C2E7&fire=F38BA8&currStreakNum=F5C2E7&sideNums=CDD6F4&currStreakLabel=CBA6F7&sideLabels=A6ADC8&dates=A6ADC8" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamTas&layout=compact&hide_border=true&bg_color=1E1E2E&title_color=F5C2E7&text_color=CDD6F4" alt="Top languages" />
 </p>
 
 <p align="center">
