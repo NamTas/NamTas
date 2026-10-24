@@ -1,13 +1,5 @@
-<div align="center">
-  <img src="./assets/intro.svg" width="100%" alt="Hi! I'm Namtas" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5C2E7&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C+Data+Analytics+%7C+Intelligent+Systems;Data+Scientist+%7C+AI+%26+Automation+Engineer;CSE+Graduate+%7C+Lifelong+Learner;Building+Scalable+Data+Pipelines+%26+AI+Systems" alt="Typing SVG" />
-</div>
-
 <p align="center">
-  <a href="https://linkedin.com/in/namtas"><img src="https://img.shields.io/badge/Status-Open_to_Work-31C48D?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Focus-Data_Engineering_%26_Analytics-89B4FA?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Also-Intelligent_Systems-CBA6F7?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="./assets/intro.svg" width="100%" alt="Hi! I'm Namtas" />
 </p>
 
 <p align="center"><img src="./assets/paw-walk.svg" width="100%" alt="paw prints" /></p>
@@ -92,6 +84,10 @@ I'm a Computer Science & Engineering graduate (AUST, Dhaka) working across **Dat
   <a href="mailto:tas.nam.03@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" height="52" alt="Email" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/NamTas"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" height="52" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NamTas&label=Profile+views&color=cba6f7&style=flat-square" alt="profile views" />
 </p>
 
 <p align="center">
