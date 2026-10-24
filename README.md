@@ -11,8 +11,7 @@
 I'm a Computer Science & Engineering graduate (AUST, Dhaka) working across **Data Engineering, Data Analytics and Intelligent Systems**. I like designing end-to-end data pipelines, predictive models and the backend that serves them. My research is applied healthcare AI: explainable ML for clinical prediction in low-resource settings.
 
 - 🔭 **Currently focused on:** scalable data pipelines, analytics, GenAI integration, backend APIs
-- 🎯 **Open to roles:** Data Analyst · Data Engineer · Data Scientist · ML / AI Engineer
-- 🎓 **Next:** MSc in Data Science
+- 🎯 **Open to roles:** Data Analyst · Data Scientist · ML / AI Engineer
 - 🌱 **Learning style:** hands-on, building end-to-end solutions
 
 <p align="center"><img src="./assets/pipeline.svg" width="100%" alt="Ingest → Transform → Analyze → Model → Serve" /></p>
